@@ -66,9 +66,9 @@ function buyItem(name, dept, price, quantity) {
       console.log(
         "\nYou are Purchasing " +
           answer.quantitypicker +
-          "(s) " +
+          " " +
           name +
-          " at $" +
+          "(s) at $" +
           price +
           " each."
       );
